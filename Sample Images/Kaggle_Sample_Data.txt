@@ -1,0 +1,12 @@
+Obtain the images for yourself
+These images are available publicly to anyone and everyone.
+This Project does not try to leak any data nor provide illegal information
+The Images included are for strictly testing purposes.
+
+[Disclaimer]
+I , Baibhav Bhattacharya, will not be held responsible for any misuse of this sample data.
+if any misuse has occured , You the user is 100% responsible and I bear no obligation to assist or help you.
+You have been warned.
+
+[Kaggle Dataset Link]
+https://www.kaggle.com/datasets/gunhcolab/pan-card?resource=download&select=pan2.png
